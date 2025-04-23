@@ -75,4 +75,4 @@ Here are some snapshots of our Pawsome marketing website which showcase our app 
 
 link : https://marketing-website-eight-taupe.vercel.app/?fbclid=PAZXh0bgNhZW0CMTEAAadImMDfcO9hyfv5IGKoXLGT7v2XnTxgsgF7uAbWDZVfopWiJCWELlXg6VilEQ_aem_BFVAhnsEvUtzZrwPFFNamw
 
-______________________________________________ 😉❤️ Giving love every pet deserves - **Pawsome** 🐾 ________________________________________________
+<p align="center">_________ 😉❤️ Giving love every pet deserves - **Pawsome** 🐾_________</p>
