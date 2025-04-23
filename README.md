@@ -1,20 +1,12 @@
-# Welcome to your Lovable project
+# Welcome to Marketing website of Pawosme App 🐾❤️
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/8cc5bf14-a146-403c-80a0-ce3d319c3e21
+This project is to create the marketing website of Pawsome mobile application allow our customers to explore more about pawsome application. So that they can get an idea on what we offer, who we are and how is it helpful for them. This website is mainly focusing on the marketing aspect of the Pawsome app. 🐾
 
-## How can I edit this code?
+**Edit this to match your own ? Yes you can!**
 
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/8cc5bf14-a146-403c-80a0-ce3d319c3e21) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
+- Use your preferred IDE and change this project as you want. You can locally run and see your new wesite which you have designed for Pawsome!
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
@@ -60,14 +52,27 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
+## Deployed website
 
-Simply open [Lovable](https://lovable.dev/projects/8cc5bf14-a146-403c-80a0-ce3d319c3e21) and click on Share -> Publish.
+Here are some snapshots of our Pawsome marketing website which showcase our app and let you explore our team, services, pricing plans and more! 💬😸
 
-## Can I connect a custom domain to my Lovable project?
+![image](https://github.com/user-attachments/assets/8710de36-dc2b-4996-b815-0b8fbb432614)
 
-Yes it is!
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+![image](https://github.com/user-attachments/assets/7d431482-5f79-4d50-8791-3f2092ee087f)
+
+
+
+![image](https://github.com/user-attachments/assets/9dfb0c42-b1bd-46de-b2d0-f22fff360425)
+
+
+
+![image](https://github.com/user-attachments/assets/f6ca2c09-f011-4c0f-972a-2e19f0e8261f)
+
+
+**Visit our marketing website here! Feel free to give your feedbacks and ideas. Happy pet care!!**
+
+link : https://marketing-website-eight-taupe.vercel.app/?fbclid=PAZXh0bgNhZW0CMTEAAadImMDfcO9hyfv5IGKoXLGT7v2XnTxgsgF7uAbWDZVfopWiJCWELlXg6VilEQ_aem_BFVAhnsEvUtzZrwPFFNamw
+
+______________________________________________ 😉❤️ Giving love every pet deserves - **Pawsome** 🐾 ________________________________________________
